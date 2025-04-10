@@ -1,6 +1,4 @@
-![ATI_logo_black_W500px (1)](https://lh5.googleusercontent.com/XFx-1t0ZcSS0leD1R4eTdrRsLXta6afoWm4Y66ZqQ0ve9EL8XjRuHsBCAoY5VyNDj9BHiSTTSgugok97OZw_0XbT-eU8Gv6U_O4tATJNGmwRzqa7YluUxjImeGjT0ChY2CfN1i4)
-
-# Tools, Practices and Systems Programme: *The Turing Way* Updates Summary 2022
+# *The Turing Way* Updates Summary 2022
 
 - PI name: Kirstie Whitaker, Malvika Sharan
 - Research Associate/Community Manager: Anne Lee Steele
@@ -8,7 +6,7 @@
 - Funded by: The Tools, Practices and Systems Research Programme of The Alan Turing Institute
 - Dates of the project: Jan 2019 - Present
 - Webpage: [https://book.the-turing-way.org/welcome](https://book.the-turing-way.org/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
-- Ethics approval status: Confirmation ethics approval not required
+- Ethics approval status: Confirmation of ethics approval is not required
 - Reports drafted by Malvika Sharan
 
 ## Overview of the project
