@@ -1,6 +1,4 @@
-![ATI_logo_black_W500px (1)](https://lh5.googleusercontent.com/XFx-1t0ZcSS0leD1R4eTdrRsLXta6afoWm4Y66ZqQ0ve9EL8XjRuHsBCAoY5VyNDj9BHiSTTSgugok97OZw_0XbT-eU8Gv6U_O4tATJNGmwRzqa7YluUxjImeGjT0ChY2CfN1i4)
-
-# Tools, Practices and Systems Programme: *The Turing Way* Updates Summary 2023
+# *The Turing Way* Updates Summary 2023
 
 - PI name: Kirstie Whitaker, Malvika Sharan
 - Research Associate/Community Manager: Anne Lee Steele
