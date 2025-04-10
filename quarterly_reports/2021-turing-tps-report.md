@@ -1,6 +1,4 @@
-![ATI_logo_black_W500px (1)](https://lh5.googleusercontent.com/XFx-1t0ZcSS0leD1R4eTdrRsLXta6afoWm4Y66ZqQ0ve9EL8XjRuHsBCAoY5VyNDj9BHiSTTSgugok97OZw_0XbT-eU8Gv6U_O4tATJNGmwRzqa7YluUxjImeGjT0ChY2CfN1i4)
-
-# Tools, Practices and Systems Programme: *The Turing Way* Updates Summary 2021
+# *The Turing Way* Updates Summary 2021
 
 - PI name: Kirstie Whitaker
 - Research Associate/Community Manager: Malvika Sharan
@@ -8,13 +6,13 @@
 - Funded by: The Tools, Practices and Systems Research Programme of The Alan Turing Institute
 - Dates of the project: Jan 2019 - Present
 - Webpage: [https://book.the-turing-way.org/welcome](https://book.the-turing-way.org/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
-- Ethics approval status: Confirmation ethics approval not required
+- Ethics approval status: Confirmation of ethics approval is not required
 - Reports drafted by Malvika Sharan, Community Manager - *The Turing Way*
 
 ### Overview of the project
 
--   [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) is an open source and collaboratively developed book-project that aims to make data science comprehensible and useful for everyone. This project brings together its diverse community of researchers, educators, learners, administrators and stakeholders from within The Alan Turing Institute and beyond.
--   The project is available online on GitHub ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) under CC-BY license owned by The Turing Way community.   The project uses Jupyter Book ([https://github.com/jupyter/jupyter-book](https://github.com/jupyter/jupyter-book)) to host its content online at [https://book.the-turing-way.org](https://book.the-turing-way.org).
+-   [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) is an open source and collaboratively developed book project that aims to make data science comprehensible and useful for everyone. This project brings together its diverse community of researchers, educators, learners, administrators and stakeholders from within The Alan Turing Institute and beyond.
+-   The project is available online on GitHub ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) under a CC-BY license owned by The Turing Way community.   The project uses Jupyter Book ([https://github.com/jupyter/jupyter-book](https://github.com/jupyter/jupyter-book)) to host its content online at [https://book.the-turing-way.org](https://book.the-turing-way.org).
 
 ### Software/code/tools/methods developed/released
 
